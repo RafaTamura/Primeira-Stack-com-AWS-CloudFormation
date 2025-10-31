@@ -30,7 +30,7 @@ O template principal deste desafio (`templates/infrastructure-stack.yaml`) provi
 
 ---
 
-## 🧩 Funcionalidades Avançadas e Aprendizados do Template
+## Funcionalidades Avançadas e Aprendizados do Template
 
 O foco do laboratório foi utilizar as seções e funções avançadas do CloudFormation para criar um template flexível e robusto:
 
